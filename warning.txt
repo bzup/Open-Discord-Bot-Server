@@ -1,0 +1,12 @@
+
+OPEN DISOCRD DICE ROLLER BOT (C) ALFIE TAYLOR 2020
+
+WARNING:
+
+This Bot is very barebones and I have very little priror knowledge of compiling code.
+The Bot may not be the most reliable, but it'll run on damn near well anything.
+
+SECURITY:
+
+THE BOT TOKEN IS STORED IN A JSON FILE THAT COULD EASILY BE STOLEN, IF YOU KNOW BASIC
+COMPUTER SECURITY YOU WILL BE FINE, BUT BEWARE OF SPYWARE!
